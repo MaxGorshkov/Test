@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+f2
+=======
 master
+>>>>>>> master
